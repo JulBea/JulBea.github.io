@@ -1,0 +1,24 @@
+<map id="rtype_client/include/Client/C_Packet.hpp" name="rtype_client/include/Client/C_Packet.hpp">
+<area shape="rect" id="Node000001" title="Definitions of packet structures used for network communication in the game." alt="" coords="363,5,518,45"/>
+<area shape="rect" id="Node000002" href="$C__Asio_8hpp.html" title="Declaration of the C_Asio class for managing UDP communication with Asio." alt="" coords="365,93,516,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,59,443,93,438,93,438,59"/>
+<area shape="rect" id="Node000003" href="$C__Client_8hpp.html" title="Declaration of the Client class, managing the client&#39;s main loop." alt="" coords="5,269,156,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,119,301,125,246,136,192,155,144,183,124,203,108,226,89,270,84,268,104,223,120,199,140,179,190,151,245,131,300,119,351,113"/>
+<area shape="rect" id="Node000004" href="$C__Command_8hpp.html" title="Declaration of the Command class, handling various game&#45;related commands." alt="" coords="154,181,333,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="386,141,288,184,285,179,384,136"/>
+<area shape="rect" id="Node000005" href="$C__Game_8hpp.html" title="Declaration of the Game class, managing the main game logic and loop." alt="" coords="331,357,481,397"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="451,146,461,222,461,266,453,310,440,337,425,359,421,356,436,334,447,309,455,266,456,222,446,147"/>
+<area shape="rect" id="Node000006" href="$C__SceneManager_8hpp.html" title="Declaration of the SceneManager class, which manages game scenes and components." alt="" coords="232,269,439,309"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="424,147,349,271,345,268,420,144"/>
+<area shape="rect" id="Node000007" href="$rtype__client_2include_2ECS_2Components_2Window_8hpp.html" title="Header file for the Window component." alt="" coords="515,181,735,221"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="495,137,586,179,583,184,492,142"/>
+<area shape="rect" id="Node000009" href="$C__Systems_8hpp_source.html" title=" " alt="" coords="759,181,973,221"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="530,130,773,179,772,184,529,135"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="197,230,118,272,115,267,194,225"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="227,234,214,272,215,291,222,308,243,331,270,347,300,359,331,367,330,372,299,364,268,352,240,335,217,311,209,292,209,271,222,232"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="275,229,317,267,313,271,272,233"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="362,318,392,355,388,359,357,322"/>
+<area shape="rect" id="Node000008" href="$rtype__client_2include_2ECS_2Components_2Components_8hpp.html" title="Header file that includes all component headers for the game." alt="" coords="514,269,765,309"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="633,234,639,269,633,270,628,235"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="851,235,821,275,801,295,778,312,724,332,646,348,482,371,481,366,645,343,722,327,775,307,797,291,817,272,847,232"/>
+</map>

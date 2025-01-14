@@ -1,0 +1,17 @@
+<map id="rtype_server/include/Server/Asio.hpp" name="rtype_server/include/Server/Asio.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the Asio class for managing UDP communication using Asio." alt="" coords="69,5,224,45"/>
+<area shape="rect" id="Node000002" href="$Packet_8hpp.html" title="Declaration of data structures for communication between the server and clients." alt="" coords="189,93,281,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,44,213,82,209,86,166,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,83,192"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="136,47,62,157,57,154,131,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="107,167,187,192"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="149,46,149,153,144,153,144,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,121,89,164,87,159,203,116"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,121,173,160,170,156,219,117"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="211,167,269,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="238,119,241,153,235,153,233,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="294,167,418,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="256,116,326,157,323,162,253,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="442,167,510,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="274,116,429,161,428,167,273,121"/>
+</map>

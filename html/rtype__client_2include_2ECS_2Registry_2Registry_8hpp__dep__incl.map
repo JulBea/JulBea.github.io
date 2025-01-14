@@ -1,0 +1,9 @@
+<map id="rtype_client/include/ECS/Registry/Registry.hpp" name="rtype_client/include/ECS/Registry/Registry.hpp">
+<area shape="rect" id="Node000001" title="Manages components and entities in the game, allowing component registration, entity spawning,..." alt="" coords="141,5,335,45"/>
+<area shape="rect" id="Node000002" href="$rtype__client_2include_2ECS_2Registry_2EntityManager_8ipp_source.html" title=" " alt="" coords="5,93,236,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,55,141,95,137,91,191,51"/>
+<area shape="rect" id="Node000003" href="$rtype__client_2include_2ECS_2Registry_2Registry_8ipp_source.html" title=" " alt="" coords="261,93,450,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="269,52,323,91,320,95,266,56"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="164,83,218,43,221,48,167,88"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="325,87,270,48,273,43,328,83"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="rtype_server/include/Server/Packet.hpp" name="rtype_server/include/Server/Packet.hpp">
+<area shape="rect" id="Node000001" title="Declaration of data structures for communication between the server and clients." alt="" coords="276,5,431,45"/>
+<area shape="rect" id="Node000002" href="$Asio_8hpp.html" title="Declaration of the Asio class for managing UDP communication using Asio." alt="" coords="276,93,431,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,59,356,93,351,93,351,59"/>
+<area shape="rect" id="Node000003" href="$rtype__server_2include_2ECS_2Components_2Window_8hpp_source.html" title=" " alt="" coords="29,181,249,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,141,187,184,185,179,293,136"/>
+<area shape="rect" id="Node000005" href="$Command_8hpp.html" title="Declaration of the Command class for managing and executing client commands." alt="" coords="331,181,498,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="377,143,403,180,399,183,373,146"/>
+<area shape="rect" id="Node000006" href="$Game_8hpp.html" title="Declaration of the Game class for managing the game loop and state." alt="" coords="280,269,435,309"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="337,146,323,182,319,201,323,221,333,246,346,268,341,271,328,248,317,222,314,201,317,181,332,145"/>
+<area shape="rect" id="Node000007" href="$Server_8hpp.html" title="Declaration of the Server class for managing the core server functionality." alt="" coords="459,269,613,309"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="445,134,481,153,513,180,526,201,534,225,539,269,534,269,529,226,521,203,509,183,478,157,442,139"/>
+<area shape="rect" id="Node000004" href="$rtype__server_2include_2ECS_2Components_2Components_8hpp.html" title="Header file that includes all the component declarations." alt="" coords="5,269,256,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,235,135,269,130,269,133,235"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="396,234,372,271,368,268,392,232"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="454,227,511,267,508,271,451,231"/>
+</map>
