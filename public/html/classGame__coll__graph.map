@@ -1,5 +1,0 @@
-<map id="Game" name="Game">
-<area shape="rect" id="Node000001" title="A class to manage the main game loop and state." alt="" coords="34,93,95,119"/>
-<area shape="rect" id="Node000002" href="$classSceneManager.html" title="Manages the various scenes and components of the game." alt="" coords="5,5,124,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,45,67,93,62,93,62,45"/>
-</map>

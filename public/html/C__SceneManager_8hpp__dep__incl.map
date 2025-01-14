@@ -1,5 +1,0 @@
-<map id="rtype_client/include/Client/C_SceneManager.hpp" name="rtype_client/include/Client/C_SceneManager.hpp">
-<area shape="rect" id="Node000001" title="Declaration of the SceneManager class, which manages game scenes and components." alt="" coords="5,5,212,45"/>
-<area shape="rect" id="Node000002" href="$C__Game_8hpp.html" title="Declaration of the Game class, managing the main game logic and loop." alt="" coords="33,93,184,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,59,111,93,106,93,106,59"/>
-</map>

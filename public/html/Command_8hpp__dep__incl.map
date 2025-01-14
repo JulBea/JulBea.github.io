@@ -1,7 +1,0 @@
-<map id="rtype_server/include/Server/Command.hpp" name="rtype_server/include/Server/Command.hpp">
-<area shape="rect" id="Node000001" title="Declaration of the Command class for managing and executing client commands." alt="" coords="89,5,255,45"/>
-<area shape="rect" id="Node000002" href="$Game_8hpp.html" title="Declaration of the Game class for managing the game loop and state." alt="" coords="5,93,160,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,57,104,95,101,91,140,53"/>
-<area shape="rect" id="Node000003" href="$Server_8hpp.html" title="Declaration of the Server class for managing the core server functionality." alt="" coords="184,93,339,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,53,243,91,240,95,200,57"/>
-</map>
